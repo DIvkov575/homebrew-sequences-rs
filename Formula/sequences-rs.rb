@@ -2,7 +2,7 @@ class SequencesRs < Formula
   desc "CLI for training number sequence recognition (Optiver/Flow Traders prep)"
   homepage "https://github.com/DIvkov575/sequences-rs"
   url "https://github.com/DIvkov575/sequences-rs/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "e55a07e43210b20644e95b7d330f5b8571420e1804f7207ba4e12e2aa980f1e3"
   license "MIT"
 
   depends_on "rust" => :build
